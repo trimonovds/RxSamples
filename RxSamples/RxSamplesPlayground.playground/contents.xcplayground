@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Fighting with Rx contracts - more edge-cases'/>
+        <page name='Custom Reactive extensions'/>
+        <page name='System API make reactive'/>
+        <page name='Lifecycle - cold'/>
+        <page name='Lifecycle - hot[no subscription retain]'/>
+        <page name='Lifecycle - hot[retain and dispose subscription]'/>
+        <page name='Lifecycle - hot[retain self in subscr]'/>
+        <page name='Lifecycle - hot[retain self in subscr + retain and dispose subscr]'/>
+        <page name='Lifecycle - hot[retain self in operator]'/>
+        <page name='Lifecycle - hot[retain self in operator + retain and dispose subscr]'/>
+        <page name='To Rx paradigm (from completions)'/>
+        <page name='Scheduling samples'/>
+        <page name='Lifecycle - another'/>
+        <page name='Lifecycle - subjects'/>
+    </pages>
+</playground>
