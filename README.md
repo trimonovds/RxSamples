@@ -18,5 +18,8 @@
 ## Design by contract
 - http://sergeyteplyakov.blogspot.com/2013/10/articles.html#design_by_contract
 
+# Канал с годным контентом по программированию
+- https://t.me/MonkeyCoding
+
 # Блог Яндекс.Карт iOS
 - https://medium.com/yandex-maps-ios
