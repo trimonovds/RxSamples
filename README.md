@@ -15,7 +15,7 @@
 - https://channel9.msdn.com/Tags/rx-in-depth
 - https://channel9.msdn.com/Shows/Going+Deep/Bart-De-Smet-Rx-and-Cortana
 
-# Мой канал с полезным и просто интересным контентом по программированию
+## Мой канальчик с годным контентом по программированию
 - https://t.me/MonkeyCoding
 
 ## Design by contract
